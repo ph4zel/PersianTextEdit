@@ -1,7 +1,7 @@
 # PersianTextEdit
 Type Persian in Godot Engine!
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/fazel87/PersianTextEdit/blob/main/Capture_2022_01_08_21_10_18_447.png?raw=true)
 
 # Support
 support Godot 3.1 (tested in 3.4 and 3.4.2)
