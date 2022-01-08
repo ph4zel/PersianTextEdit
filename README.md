@@ -14,6 +14,7 @@ support Persian in Godot {
 	
 }
 
+Support All Platforms (Tested on Android and Windows).
 
 # How to install
 
@@ -51,3 +52,14 @@ Reload Text: if clicked in editor or set in code, generated to Persian Mode (Rig
 # PersianButton
 
 Like PersianText
+
+# Learn
+
+### Custom Text View and TextEditor:
+open childs folder in plugin root ("res://addons/PersianTextEdit/Childs") and RichTextLabel.tscn or TextEdit.tscn and Customing.
+
+### Change Font
+Like Up or:
+open Fonts folder in plugin root ("res://addons/PersianTextEdit/Fonts") and open Fonts.tres and open Font in inspector and Load font in Font Data
+
+for more learn see example scene
