@@ -43,7 +43,9 @@ Text: if set text in editor, set TextEditor to text in first game
 ### Variable
 
 Persian Text: Main persian text
+
 Reload In Ready: if true, Persian Text(Variable) generate to Persian Mode (Right to left and more)
+
 Reload Text: if clicked in editor or set in code, generate to Persian Mode (Right to left and more)
 
 # PersianButton
