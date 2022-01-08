@@ -51,8 +51,7 @@ Reload Text: if clicked in editor or set in code, generated to Persian Mode (Rig
 
 # PersianButton
 
-Like PersianText
-
+Like PersianLabel
 # Learn
 
 ### Custom Text View and TextEditor:
