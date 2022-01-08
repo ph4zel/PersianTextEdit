@@ -36,7 +36,7 @@ Added {PersianLabel , PersianTextEdit , PersianButton} to Node list.
 text_chaged: if user type text in textedit, emit this signal
 
 ### Variable
-Text: if set text in editor, Adjusts TextEditor to text in start game
+Text: if set text in editor, Adjusts TextEditor text to text in start game
 
 # PersianLabel
 
