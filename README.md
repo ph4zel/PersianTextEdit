@@ -59,7 +59,7 @@ Like PersianText
 open childs folder in plugin root ("res://addons/PersianTextEdit/Childs") and RichTextLabel.tscn or TextEdit.tscn and Customing.
 
 ### Change Font
-Like Up or:
+Like above or:
 open Fonts folder in plugin root ("res://addons/PersianTextEdit/Fonts") and open Fonts.tres and open Font in inspector and Load font in Font Data
 
 for more learn see example scene
