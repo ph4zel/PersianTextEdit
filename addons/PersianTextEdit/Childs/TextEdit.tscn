@@ -1,0 +1,46 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://addons/PersianTextEdit/Style/transparent.tres" type="StyleBox" id=1]
+[ext_resource path="res://addons/PersianTextEdit/Fonts/Font.tres" type="DynamicFont" id=2]
+[ext_resource path="res://addons/PersianTextEdit/Scripts/CustomTextEdit.gd" type="Script" id=3]
+
+[node name="TextEdit" type="TextEdit"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+custom_colors/member_variable_color = Color( 0, 0, 0, 0 )
+custom_colors/code_folding_color = Color( 0, 0, 0, 0 )
+custom_colors/function_color = Color( 0, 0, 0, 0 )
+custom_colors/safe_line_number_color = Color( 0, 0, 0, 0 )
+custom_colors/symbol_color = Color( 0, 0, 0, 0 )
+custom_colors/caret_background_color = Color( 0, 0, 0, 0 )
+custom_colors/bookmark_color = Color( 0, 0, 0, 0 )
+custom_colors/selection_color = Color( 0, 0, 0, 0 )
+custom_colors/caret_color = Color( 0, 0, 0, 0 )
+custom_colors/breakpoint_color = Color( 0, 0, 0, 0 )
+custom_colors/font_color_selected = Color( 0, 0, 0, 0 )
+custom_colors/font_color = Color( 0, 0, 0, 0 )
+custom_colors/line_number_color = Color( 0, 0, 0, 0 )
+custom_colors/completion_font_color = Color( 0, 0, 0, 0 )
+custom_colors/completion_scroll_color = Color( 0, 0, 0, 0 )
+custom_colors/background_color = Color( 0, 0, 0, 0 )
+custom_colors/number_color = Color( 0, 0, 0, 0 )
+custom_colors/completion_background_color = Color( 0, 0, 0, 0 )
+custom_colors/brace_mismatch_color = Color( 0, 0, 0, 0 )
+custom_colors/current_line_color = Color( 0, 0, 0, 0 )
+custom_colors/completion_selected_color = Color( 0, 0, 0, 0 )
+custom_colors/executing_line_color = Color( 0, 0, 0, 0 )
+custom_colors/mark_color = Color( 0, 0, 0, 0 )
+custom_colors/word_highlighted_color = Color( 0, 0, 0, 0 )
+custom_colors/font_color_readonly = Color( 0, 0, 0, 0 )
+custom_colors/completion_existing_color = Color( 0, 0, 0, 0 )
+custom_fonts/font = ExtResource( 2 )
+custom_styles/read_only = ExtResource( 1 )
+custom_styles/focus = ExtResource( 1 )
+custom_styles/normal = ExtResource( 1 )
+custom_styles/completion = ExtResource( 1 )
+context_menu_enabled = false
+selecting_enabled = false
+script = ExtResource( 3 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
