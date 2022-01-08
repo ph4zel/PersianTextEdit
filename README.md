@@ -62,3 +62,9 @@ Like above or:
 open Fonts folder in plugin root ("res://addons/PersianTextEdit/Fonts") and open Fonts.tres and open Font in inspector and Load font in Font Data
 
 for more learn see example scene
+
+### Issues
+Issues are answered
+
+### Contribut
+you can add new node to this project. for example : PersianRichTextLabel
