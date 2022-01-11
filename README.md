@@ -1,4 +1,4 @@
-# PersianTextEdit
+# Persian Text Edit
 Type Persian in Godot Engine!
 
 ![alt text](https://github.com/fazel87/PersianTextEdit/blob/main/Capture_2022_01_08_21_10_18_447.png?raw=true)
