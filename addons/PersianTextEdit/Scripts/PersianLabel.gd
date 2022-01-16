@@ -1,13 +1,8 @@
 tool
 extends Label
 
-export(String,MULTILINE) var PersianText
-export(bool) var reload_in_ready = false
-export(bool) var reload_Text setget _reload
+export(String,MULTILINE) var PersianText setget _reload
 
-func _ready():
-	if reload_in_ready:
-		_reload()
-
-func _reload(_temp=null):
+func _reload(string:String):
+	PersianText = string
 	text = Persian.toPersian(PersianText)
