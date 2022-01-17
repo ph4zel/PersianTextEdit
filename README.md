@@ -68,5 +68,5 @@ for more learn see example scene
 ### Issues
 Issues are answered
 
-### Contribut
+### Contribute
 you can add new node to this project. for example : PersianRichTextLabel
