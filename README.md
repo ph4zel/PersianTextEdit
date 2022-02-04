@@ -1,6 +1,5 @@
 # Persian Text Edit
 [<img src="https://img.shields.io/static/v1?label=GODOT&message=Asset%20Library&color=478CBF&labelColor=FFFFFF&style=for-the-badge&logo=godotengine">](https://godotengine.org/asset-library/asset/1180)
-
 Type Persian in Godot Engine!
 
 ![alt text](https://github.com/fazel87/PersianTextEdit/blob/main/Capture_2022_01_08_21_10_18_447.png?raw=true)
